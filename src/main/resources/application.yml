@@ -1,0 +1,6 @@
+spring:
+  data:
+    elasticsearch:
+      client:
+        reactive:
+          endpoints: http://182.92.131.138:9200
